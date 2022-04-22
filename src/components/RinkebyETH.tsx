@@ -23,14 +23,12 @@ export default function RinkebyETH() {
               paddingLeft: '10px'
             }}/>
           </div>
-          
-
-          {/* <button>Copy to clipboard with button</button> */}
         </CopyToClipboard>
       </p>
       <div style={{
-        width: '372px',
-        height: '372px',
+        width: '352px',
+        border: '2px solid black',
+        height: '390px',
         borderRadius: '10px',
         overflow: 'hidden',
         filter: 'invert(100%)',

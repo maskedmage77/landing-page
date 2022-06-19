@@ -1,7 +1,7 @@
 {
   "name": "landing-page",
   "version": "0.1.0",
-  "homepage": "https://maskedmage77.github.io/landing-page",
+  "homepage": "https://landing.jacobhines.dev",
   "private": true,
   "dependencies": {
     "@emotion/css": "^11.9.0",
